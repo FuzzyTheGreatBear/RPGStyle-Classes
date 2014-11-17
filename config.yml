@@ -1,0 +1,41 @@
+Lobby:
+  World:
+  X:
+  Y:
+  Z:
+  Yaw:
+  Pitch:
+Blue:
+  World:
+  X:
+  Y:
+  Z:
+  Yaw:
+  Pitch:
+Red:
+  World:
+  X:
+  Y:
+  Z:
+  Yaw:
+  Pitch:
+Green:
+  World:
+  X:
+  Y:
+  Z:
+  Yaw:
+  Pitch:
+Yellow:
+  World:
+  X:
+  Y:
+  Z:
+  Yaw:
+  Pitch:
+Members:
+  Blue:
+  Green:
+  Red:
+  Yellow:
+  

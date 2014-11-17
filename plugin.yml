@@ -1,0 +1,12 @@
+name: LOL
+version: 1.0
+main: me.Fuzzybear04.Main.RPGClasses
+description: RPG Testing
+commands:
+  rpg:
+    description: Do stuff
+    usage: /rpg
+
+  saveteams:
+    description: Save Teams
+    usage: /saveteams
